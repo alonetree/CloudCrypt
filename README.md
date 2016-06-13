@@ -1,0 +1,2 @@
+# CloudCrypt
+encrypt cloud data
